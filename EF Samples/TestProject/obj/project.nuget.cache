@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yXLyyRZYkopPt0+FdXMoRDv5CO+PH04xB0f9uYG5eP0QDDVLK5U55fpi29Pe48oaST5oUDggTyHLEdnUZhHIHQ==",
+  "dgSpecHash": "aJx7dqOD3LXRziI4BMDCh87JX5Hlo5mZ4Xj/r3xkkaa831DQLF5MF38RjJAqCeXU2GbO+9Bi4u0Kb8SvYOgixw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rodnick\\Downloads\\EF Samples\\EF Samples\\TestProject\\TestProject.csproj",
+  "projectFilePath": "C:\\Users\\rodnick\\Desktop\\COMP4149\\MVC_AssignmentIII\\EF Samples\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodnick\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\rodnick\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
