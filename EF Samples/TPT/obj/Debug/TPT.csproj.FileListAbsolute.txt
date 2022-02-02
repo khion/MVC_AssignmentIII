@@ -1,0 +1,115 @@
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\TPT.dll.config
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\TPT.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\TPT.pdb
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Antlr3.Runtime.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\EntityFramework.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\EntityFramework.SqlServer.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Security.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Newtonsoft.Json.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Owin.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\System.Web.Helpers.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\System.Web.Mvc.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\System.Web.Optimization.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\System.Web.Razor.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\System.Web.WebPages.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\System.Web.WebPages.Razor.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\WebGrease.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\EntityFramework.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\EntityFramework.SqlServer.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\System.Web.Helpers.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\System.Web.Mvc.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\System.Web.Optimization.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\System.Web.Razor.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\System.Web.WebPages.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\System.Web.WebPages.Razor.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Newtonsoft.Json.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Antlr3.Runtime.pdb
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Security.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\obj\Debug\TPT.csproj.AssemblyReference.cache
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\obj\Debug\TPT.csproj.CoreCompileInputs.cache
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\obj\Debug\TPT.csproj.CopyComplete
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\obj\Debug\TPT.dll
+C:\Users\steve\CSTTerm4\COMP4945\Lectures\Week4\EF\EF Samples\TPT\obj\Debug\TPT.pdb
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\TPT.dll.config
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\TPT.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\TPT.pdb
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Antlr3.Runtime.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\EntityFramework.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\EntityFramework.SqlServer.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Security.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Newtonsoft.Json.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Owin.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\System.Web.Helpers.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\System.Web.Mvc.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\System.Web.Optimization.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\System.Web.Razor.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\System.Web.WebPages.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\System.Web.WebPages.Razor.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\WebGrease.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\EntityFramework.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\EntityFramework.SqlServer.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\System.Web.Helpers.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\System.Web.Mvc.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\System.Web.Optimization.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\System.Web.Razor.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\System.Web.WebPages.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\System.Web.WebPages.Razor.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Newtonsoft.Json.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Antlr3.Runtime.pdb
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Security.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\obj\Debug\TPT.csproj.AssemblyReference.cache
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\obj\Debug\TPT.csproj.CoreCompileInputs.cache
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\obj\Debug\TPT.csproj.CopyComplete
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\obj\Debug\TPT.dll
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\obj\Debug\TPT.pdb
+C:\Users\rodnick\Downloads\EF Samples\EF Samples\TPT\bin\WebDriver.dll
